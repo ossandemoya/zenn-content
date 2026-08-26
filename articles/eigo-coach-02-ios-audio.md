@@ -3,7 +3,7 @@ title: "英語もコードもできないおっさん、iPhoneのマイクが無
 emoji: "🎙️"
 type: "tech"
 topics: ["ai", "webaudio", "ios", "個人開発", "英語学習"]
-published: false
+published: true
 ---
 
 > 連載「AIに英語コーチを作らせてみた」第2回。前回 → https://zenn.dev/ossandemoya/articles/eigo-coach-01-multi-agent
